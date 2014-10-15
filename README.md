@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just other repository for education purpose
+Hi All,
+
+I am Siva, a banker working in Analytics in one of the reputed bank
